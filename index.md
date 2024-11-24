@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a Ph.D. student at ...
+I am a PhD student at the School of Information, University of Michigan. I’m advised by Dr. Nicole Ellison. I explore socio-technical aspect of the process of building bonding relationships including friendship in Computer-Mediated Communication environments. More specifically, currently I am exploring self-presentation and uncertainty reduction in various relationship building platforms. My work is situated in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Communication, and Social Psychology.
 
 ## Research Interests
 
