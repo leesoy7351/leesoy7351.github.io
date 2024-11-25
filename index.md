@@ -23,4 +23,6 @@ In previous years, I studied sociocultural factors in digital skills learning wi
 
 {% include_relative _includes/publications.md %}
 
+<!-- 
 {% include_relative _includes/services.md %}
+-->
