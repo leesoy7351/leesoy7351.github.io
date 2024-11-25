@@ -17,6 +17,6 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3544549.3585712
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://dl.acm.org/doi/full/10.1145/3544549.3585712
-    slides: https://class-il.mpi-inf.mpg.de/mnemonics/
+    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/CTW_training.png
