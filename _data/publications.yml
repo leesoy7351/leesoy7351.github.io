@@ -1,14 +1,25 @@
 main:
 
-  - title: Toward a Measure of Collective Digital Capacity: An Exploratory Analysis
+  - title: "Friendship Formation in an Enforced Online Regime: Findings from a US University Under COVID"
+    authors: <strong>Soyoung Lee</strong>, Kentaro Toyama
+    conference_short: CSCW
+    conference: Proceedings of the ACM on Human-Computer Interaction 8 (CSCW1), 1-30, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3641007
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    presentation: ./assets/files/Soyoung_CSCW 2024 Presentation.pdf
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
+  
+  - title: "Toward a Measure of Collective Digital Capacity: An Exploratory Analysis"
     authors: Tawanna R Dillahunt, Kerby Shedden, Mila Ekaterina Filipof, <strong>Soyoung Lee</strong>, Mustafa Naseem, Kentaro Toyama, Julie Hui
     conference_short: CHI
-    conference: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems
-, 2024.
+    conference: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2024.
     pdf: https://dl.acm.org/doi/full/10.1145/3613905.3650811
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    poster: ./assets/img/CHI23_LBW_Poster.pdf
+    poster: ./assets/files/CHI24 LBW_Poster_DigitalCapacityMeasure.pdf
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
@@ -19,6 +30,6 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3544549.3585712
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://dl.acm.org/doi/full/10.1145/3544549.3585712
-    poster: ./assets/img/CHI23_LBW_Poster.pdf
+    poster: ./assets/files/CHI23_LBW_Poster.pdf
     #notes: Oral Presentation
     image: ./assets/img/CTW_training.png
