@@ -29,7 +29,7 @@ main:
     conference: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2023.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3544549.3585712
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://dl.acm.org/doi/full/10.1145/3544549.3585712
+    #page: https://dl.acm.org/doi/full/10.1145/3544549.3585712
     poster: ./assets/files/CHI23_LBW_Poster.pdf
     #notes: Oral Presentation
     image: ./assets/img/CTW_training.png
