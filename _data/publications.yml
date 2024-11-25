@@ -32,4 +32,4 @@ main:
     #page: https://dl.acm.org/doi/full/10.1145/3544549.3585712
     poster: ./assets/files/CHI23_LBW_Poster.pdf
     #notes: Oral Presentation
-    image: ./assets/img/CTW_training.png
+    #image: ./assets/img/CTW_training.png
