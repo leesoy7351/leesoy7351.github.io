@@ -6,9 +6,9 @@ email: soyolee@umich.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: "Soyoung Lee, Ph.D. student at the University of Michigan, focuses on human-computer interaction and digital capacity. View her publications, CV, and research journey."
+keywords: "Soyoung Lee, Ph.D. student, University of Michigan, HCI, Digital Capacity, Publications, Research"
+canonical: https://leesoy7351.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
