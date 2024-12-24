@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD student at the School of Information, University of Michigan. I’m advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). I explore socio-technical aspects of the process of building bonding relationships, such as friendship, in Computer-Mediated Communication environments. More specifically, currently I am exploring self-presentation and uncertainty reduction in relationship building platforms. My work is situated in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Communication, and Social Psychology.
+I am a PhD student at the School of Information, University of Michigan. I’m advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). I explore socio-technical aspects of building bonding relationships, such as friendship, in Computer-Mediated Communication and Human-AI interaction environments. My work is situated in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Communication, and Social Psychology.
 In previous years, I studied sociocultural factors in digital skills learning with a focus on bonding relationships and social support in an underresourced community using a community-based participatory research method. Prior to coming back to graduate school, I worked as a product manager and communication specialist in the industry.  
 
 <!--
