@@ -598,27 +598,24 @@ footer {
 
 
 /* Fix for publication indentation */
-section h2 + * {
-  margin-left: 0;
-  padding-left: 0;
-}
-
-/* Target publication container specifically */
-section h2:contains("Publications") + * {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
-
-/* Make sure list items and paragraphs in publications aren't indented */
-section h2:contains("Publications") ~ p,
-section h2:contains("Publications") ~ ul,
-section h2:contains("Publications") ~ div {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
-
-/* Fix link container display */
+/* Target all elements in the publication section */
+.publications-container,
+section a[href^="http"],
+section h3,
+section p:not(:first-of-type),
 .pub-row {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+}
+
+/* Override any flex display that might be causing indentation */
+.pub-row {
+  display: block !important;
+}
+
+/* Make sure publication titles align properly */
+papertitle {
   margin-left: 0 !important;
   padding-left: 0 !important;
 }
