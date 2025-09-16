@@ -3,12 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a PhD student at the **School of Information, University of Michigan**, advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). My research explores the **socio-technical and relational aspects** of building bonding relationships in Computer-Mediated and Human-Machine interaction environments.
-
-My work sits at the intersection of **Human-Computer Interaction (HCI)**, **Computer-Supported Cooperative Work (CSCW)**, **Communication**, and **Social Psychology**. I'm particularly interested in understanding how technology can foster meaningful connections and support community building in digital spaces.
-
-Previously, I investigated sociocultural factors in digital skills learning, focusing on bonding relationships and social support in underresourced communities through community-based participatory research methods. Before returning to graduate school, I gained valuable industry experience as a product manager and communication specialist, bringing a unique perspective to my academic work.  
+I am a PhD student at the School of Information, University of Michigan. I’m advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). I study socio-technical and relational aspects of building bonding relationships in Computer-Mediated and Human-Machine interaction environments. My work is situated in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Communication, and Social Psychology.
+In previous years, I studied sociocultural factors in digital skills learning with a focus on bonding relationships and social support in an underresourced community using a community-based participatory research method. Prior to coming back to graduate school, I worked as a product manager and communication specialist in the industry.  
 
 <!--
 ## Research Interests
