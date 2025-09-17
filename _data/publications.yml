@@ -1,4 +1,20 @@
 main:
+
+Sociocultural Factors in Digital Skills Learning: A Community-Based Intervention Among U.S. Public Housing Adults
+Soyoung Lee, Julie Hui, Twanna R. Dillahunt
+Proceedings of the ACM on Human-Computer Interaction 9, 2, Article CSCW172 (April 2025)
+
+  - title: "The Development of a New Measure of Collective Digital Literacy"
+    authors: Tawanna R Dillahunt, Kerby Shedden, Mila Ekaterina Filipof, <strong>Soyoung Lee</strong>, Mustafa Naseem, Kentaro Toyama, Julie Hui
+    conference_short: CSCW
+    conference: Proceedings of the ACM on Human-Computer Interaction 9, 2, Article CSCW186 (April 2025)
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3711084
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    # presentation: ./assets/files/CSCW25_sociocultural factors_lee.pdf
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
   - title: "Sociocultural Factors in Digital Skills Learning: A Community-Based Intervention Among U.S. Public Housing Adults"
     authors: <strong>Soyoung Lee</strong>, Julie Hui, Twanna R. Dillahunt
     conference_short: CSCW
