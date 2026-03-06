@@ -600,7 +600,6 @@ footer {
 /* Fix for publication indentation */
 /* Target all elements in the publication section */
 .publications-container,
-section a[href^="http"],
 section h3,
 section p:not(:first-of-type),
 .pub-row {
