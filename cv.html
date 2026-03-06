@@ -1,0 +1,43 @@
+---
+layout: none
+permalink: /cv
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CV – Soyoung Lee</title>
+</head>
+<body>
+<p>Loading CV...</p>
+<script>
+  var months = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+
+  function parseDate(path) {
+    var name = path.split('/').pop().toLowerCase();
+    var yearMatch = name.match(/(\d{4})/);
+    var monthMatch = name.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/);
+    var year = yearMatch ? parseInt(yearMatch[1]) : 0;
+    var month = monthMatch ? (months[monthMatch[1]] || 0) : 0;
+    return year * 100 + month;
+  }
+
+  var cvFiles = [
+    {% assign cv_files = site.static_files | where_exp: "item", "item.name contains 'CV_'" %}
+    {% for file in cv_files %}
+    {% if file.extname == ".pdf" %}
+    "{{ file.path }}"{% unless forloop.last %},{% endunless %}
+    {% endif %}
+    {% endfor %}
+  ];
+
+  cvFiles.sort(function(a, b) { return parseDate(b) - parseDate(a); });
+
+  if (cvFiles.length > 0) {
+    window.location.href = cvFiles[0];
+  } else {
+    document.querySelector('p').textContent = 'CV not found.';
+  }
+</script>
+</body>
+</html>
