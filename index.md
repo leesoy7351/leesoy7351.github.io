@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD student at the School of Information, University of Michigan. I’m advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). I study socio-technical and relational aspects of building bonding relationships in Computer-Mediated and Human-Machine interaction environments. My work is situated in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), Communication, and Social Psychology.
+I am a PhD student at the School of Information, University of Michigan. I’m advised by [Nicole Ellison](https://www.si.umich.edu/people/nicole-ellison). My dissertation work, situated at the intersection of Communication, HCI, and Social Psychology scholarship, documents and theorizes the psychological and communicative mechanisms through which users cultivate quasi-interpersonal relationships with surprisingly human-like AI chatbots whose nature remains ambiguous for them. I mainly use qualitative research methods including interviews and participant observation. 
 In previous years, I studied sociocultural factors in digital skills learning with a focus on bonding relationships and social support in an underresourced community using a community-based participatory research method. Prior to coming back to graduate school, I worked as a product manager and communication specialist in the industry.  
 
 <!--
