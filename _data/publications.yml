@@ -1,4 +1,10 @@
 main:
+  - title: "‘I Know I Can Do the Job, It’s Just Putting It Down’: Using Personas as a Mirror to Identify Strengths"
+    authors: Julie Hui, Mila Ekaterina Filipof, <strong>Soyoung Lee</strong>, Shanley Corvite, Mustafa Naseem, Tawanna R Dillahunt
+    conference_short: CHI
+    conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-44)
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3772318.3790914
+
   - title: "The Development of a New Measure of Collective Digital Literacy"
     authors: Tawanna R Dillahunt, Kerby Shedden, Mila Ekaterina Filipof, <strong>Soyoung Lee</strong>, Mustafa Naseem, Kentaro Toyama, Julie Hui
     conference_short: CSCW
